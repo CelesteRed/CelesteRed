@@ -1,5 +1,5 @@
 
-###🤩 CelesteRed He/Him
+### **CelesteRed** 😁 *[He/Him]*
 #### Challenging the limits of Minecraft and Web Integration!
 ![Challenging the limits of Minecraft and Web Integration!](https://cdn.discordapp.com/attachments/1057122393832816661/1171874274487840809/sssss1.png?ex=655e43f7&is=654bcef7&hm=e175b8d0e82fbc0ec4d6d4cf75f050cfb659d67af9b0ffc348c03647dc1ab1a9&)
 

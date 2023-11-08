@@ -1,7 +1,9 @@
 
-###🤩 CelesteRed
+###🤩 CelesteRed He/Him
 #### Challenging the limits of Minecraft and Web Integration!
 ![Challenging the limits of Minecraft and Web Integration!](https://cdn.discordapp.com/attachments/1057122393832816661/1171874274487840809/sssss1.png?ex=655e43f7&is=654bcef7&hm=e175b8d0e82fbc0ec4d6d4cf75f050cfb659d67af9b0ffc348c03647dc1ab1a9&)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelesteRed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@CelesteR3d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Celeste.Red)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]([Celeste.Red](https://celestered.carrd.co/#socials))  
 
 I’m @CelesteRed, Just an 18 year old who wants to persue in computer science while making experiences that others can play and enjoy!
 I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make experiences that users can interact with and enjoy. Wanting to make a platform where people can create and come together to have fun!
@@ -24,9 +26,6 @@ I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make 
 - Datapack
 - Resource pack
 
-😄 Pronouns:
-- He/Him 
-
 🌱 Learning:
 - JavaScript [NodeJs]-> Want to make a website 
 - Python -> Want to learn for fun.
@@ -44,15 +43,9 @@ CelesteRed/CelesteRed is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelesteRed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@CelesteR3d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Celeste.Red)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]([Celeste.Red](https://celestered.carrd.co/#socials))  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelesteRed)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteRed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteRed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CelesteRed)  
 
 ![GitHub metrics](https://metrics.lecoq.io/CelesteRed)  
 

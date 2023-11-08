@@ -18,13 +18,11 @@ I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make 
 - Modeling
 
 ⚡ Skills: 
-- HTML
-- CSS
-- JS
+- HTML. CSS. JS
 - Python
-- Command Block
-- Datapack
-- Resource pack
+- Command Block, Datapacks, Resource Packs
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteRed)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 Learning:
 - JavaScript [NodeJs]-> Want to make a website 
@@ -44,7 +42,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Metrics](https://metrics.lecoq.io/CelesteRed?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteRed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteRed&show_icons=true)  

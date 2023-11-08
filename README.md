@@ -35,6 +35,7 @@ I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make 
 📫 Contacts:
 - Discord: @CelesteRed
 - Email: CelesteTh3Best@gmail.com
+- Website: Celeste.red
 
 <!---
 CelesteRed/CelesteRed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

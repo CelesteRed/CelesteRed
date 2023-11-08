@@ -43,9 +43,8 @@ CelesteRed/CelesteRed is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+![Metrics](https://metrics.lecoq.io/CelesteRed?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteRed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteRed&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/CelesteRed)  
-

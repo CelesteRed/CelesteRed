@@ -1,7 +1,7 @@
 
 ### **CelesteRed** 😁 *[He/Him]*
 #### Challenging the limits of Minecraft and Web Integration!
-![Challenging the limits of Minecraft and Web Integration!](https://cdn.discordapp.com/attachments/1057122393832816661/1171874274487840809/sssss1.png?ex=655e43f7&is=654bcef7&hm=e175b8d0e82fbc0ec4d6d4cf75f050cfb659d67af9b0ffc348c03647dc1ab1a9&)
+![Challenging the limits of Minecraft and Web Integration!](https://celeste.red/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelesteRed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@CelesteR3d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Celeste.Red)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]([Celeste.Red](https://celestered.carrd.co/#socials))  
 
@@ -9,7 +9,7 @@ I’m @CelesteRed, Just an 20 year old who wants to persue in computer science w
 I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make experiences that users can interact with and enjoy. Wanting to make a platform where people can create and come together to have fun!
 
 🔭 Current Project:
-- Reverse Proxy Game Hosting [https://host.celeste.red]
+- Reverse Proxy Game Hosting [-> WEBSITE <-](https://host.celeste.red)
 - Research minecraft modding?
 
 👀 Interests:

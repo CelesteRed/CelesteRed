@@ -9,7 +9,8 @@ I’m @CelesteRed, Just an 20 year old who wants to persue in computer science w
 I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make experiences that users can interact with and enjoy. Wanting to make a platform where people can create and come together to have fun!
 
 🔭 Current Project:
-- Learn NodeJs for Backend development 
+- Reverse Proxy Game Hosting [https://host.celeste.red]
+- Research minecraft modding?
 
 👀 Interests:
 - Minecraft

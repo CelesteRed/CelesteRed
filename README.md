@@ -5,7 +5,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelesteRed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@CelesteR3d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Celeste.Red)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]([Celeste.Red](https://celestered.carrd.co/#socials))  
 
-I’m @CelesteRed, Just an 20 year old who wants to persue in computer science while making experiences that others can play and enjoy!
+I’m @CelesteRed, Just an 21 year old who wants to persue in computer science while making experiences that others can play and enjoy!
 I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make experiences that users can interact with and enjoy. Wanting to make a platform where people can create and come together to have fun!
 
 🔭 Current Project:

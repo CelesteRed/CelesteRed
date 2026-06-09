@@ -9,8 +9,8 @@ I’m @CelesteRed, Just an 21 year old who wants to persue in computer science w
 I am a small fry in a big pot of shrimp and broccoli. I am here wanting to make experiences that users can interact with and enjoy. Wanting to make a platform where people can create and come together to have fun!
 
 🔭 Current Project:
-- Reverse Proxy Game Hosting [-> WEBSITE <-](https://host.celeste.red)
-- Research minecraft modding?
+- Celeste Planets [-> GAME HOSTING <-](https://host.celeste.red)
+- Minecraft Modding
 
 👀 Interests:
 - Minecraft

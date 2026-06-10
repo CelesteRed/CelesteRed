@@ -1,5 +1,5 @@
 
-### **CelesteRed** 😁 *[He/Him]*
+### **CelesteRed** 😁 *[or Ariel for the recruiter people 🤓]*
 #### Challenging the limits of Minecraft and Web Integration!
 ![Challenging the limits of Minecraft and Web Integration!](https://celeste.red/)
 

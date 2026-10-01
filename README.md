@@ -9,8 +9,9 @@ I am here wanting to make experiences that users can interact with and enjoy.
 Wanting to make a platform where people can create and come together to have fun!
 
 Project:
+- Cosmiq.GG [-> MINECRAFT MOD <-](https://cosmiq.gg/)
 - Celeste Planets [-> GAME HOSTING <-](https://host.celeste.red)
-- Minecraft Modding
+
 
 Interests:
 - Minecraft
